@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Car Loan Calculator</string>
+    <string name="header">Please enter the following:</string>
+
+    <string name="price">Car Price (RM):</string>
+    <string name="priceHint">100000</string>
+    <string name="downPayment">Down Payment Amount (RM):</string>
+    <string name="downPaymentHint">10000</string>
+    <string name="loanPeriod">Loan Period (year):</string>
+    <string name="loanPeriodHint">15 (up to 20 years)</string>
+    <string name="interestRate">Interest Rate:</string>
+    <string name="interestRateHint">0.4</string>
+
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+
+    <string name="loan">Car Loan (RM):</string>
+    <string name="loanHint">200000</string>
+    <string name="interest">Interest (RM):</string>
+    <string name="interestHint">300000.00</string>
+    <string name="monthlyRepayment">Monthly Repayment (RM):</string>
+    <string name="monthlyRepaymentHint">1500.00</string>
+</resources>
